@@ -9,7 +9,7 @@ I'm a passionate **Product Engineer** with a focus on building intuitive and imp
 - 👩‍💻 **Collaborative Development** - Enjoy brainstorming with designers, developers, and product teams to build amazing things together.
 
 ## Projects
-- **StreekR** - A Chrome extension designed to highlight content online and easily share and publish snippets, along with account access to previous 'streeks' at StreekR.com.
+- **StreamSpark** - A Chrome extension designed to highlight content online and easily share and publish snippets, along with account access to previous finds at StreekR.com.
 
 ## Skills
 - **JavaScript (ES5/ES6)**
